@@ -2,7 +2,7 @@
 🔭 I'm currently working on Building my skills <br>🤝 I'm looking for help with Getting a good JOB!!<br>🌱 I'm currently learning AI/ML
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/actually_abhijith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijith-sai-chinni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Code-In-Cloud) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abhijithsaichinni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithsaichinni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhijithsaichinni&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---

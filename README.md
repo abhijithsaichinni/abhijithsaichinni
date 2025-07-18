@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Building my skills <br>🤝 I'm looking for help with Getting a good JOB!!<br>🌱 I'm currently learning AI/ML
+🔭 Working on Building my skills <br>Building projects <br> Focus on Data Analytics/Data Science <br>Builing Full stack projects <br>🌱 I'm currently learning AI/ML <br>🤝 I'm looking for help with Getting a good JOB!!
 
 
 # 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhijithsaichinni&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

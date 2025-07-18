@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Working on Building my skills <br>Building projects <br> Focus on Data Analytics/Data Science <br>Builing Full stack projects <br>🌱 I'm currently learning AI/ML <br>🤝 I'm looking for help with Getting a good JOB!!
+Iot & Embedded Intern - PESU Venture Labs/ CoCreate Ventures<br>
+ex- Google Developer Groups On Campus Organizer<br>
+ex- Google Developer Student Clubs - Cloud Lead<br>
+ex- Project Intern - Suveechi Technologies<br><br>
+🔭 Working on Building my skills <br>Building projects <br> 📊Focus on Data Analytics/Data Science <br>⚙️Building Full stack projects <br>🌱 I'm currently learning AI/ML <br>🤝 I'm looking for help with Getting a good JOB!!
 
 
 # 🌐 Socials:
